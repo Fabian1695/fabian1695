@@ -1,4 +1,5 @@
 ### Hi there 👋
+Soy Fabian, licenciado en matemáticas, trabajo en un colegio con estudiantes de bachillerato, y en este momento me encuentro haciendo una maestría en estadística aplicada para ampliar mis conocimientos en esta área y ver como logro relacionarlo con mi campo. Uno de mis pasatiempos es montar en bicicleta y ver peliculas.
 
 <!--
 **Fabian1695/fabian1695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
